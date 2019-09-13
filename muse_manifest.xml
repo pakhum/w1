@@ -1,0 +1,66 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="OO.COM" resolutions="1x" timestamp="1568124245774">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="26485198" ref="untitled-2:index"/>
+    <file name="untitled-2.css" crc="4183654883" ref="untitled-2"/>
+    <file name="index.css" crc="177784595" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:untitled-2"/>
+    <file name="museutils.js" crc="3803043152" ref="index:untitled-2"/>
+    <file name="whatinput.js" crc="86476730" ref="index:untitled-2"/>
+    <file name="museconfig.js" crc="380897831" ref="index:untitled-2"/>
+    <file name="webpro.js" crc="242022427" ref="index:untitled-2"/>
+    <file name="form_check.php" crc="147359589" ref="index"/>
+    <file name="form_throttle.php" crc="93986428" ref="index"/>
+    <file name="form_process.php" crc="3851993751" ref="index"/>
+    <file name="form-u1304.php" crc="3922215088" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:untitled-2"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:untitled-2"/>
+    <file name="require.js" crc="4157109226" ref="index:untitled-2"/>
+  </folder>
+  <folder name="images">
+    <file name="1.jpg" crc="4038597259" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2.jpg" crc="417919458" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20190610_114930.jpg" crc="9839642" ref="index:untitled-2">
+      <caption webpage="index" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
+    </file>
+    <file name="จับภาพ.jpg" crc="126388337" seo="true" ref="untitled-2">
+      <caption webpage="untitled-2" alt=""/>
+    </file>
+    <file name="จับภาพ2.jpg" crc="4109516229" seo="true" ref="untitled-2">
+      <caption webpage="untitled-2" alt=""/>
+    </file>
+    <file name="จับภาพ3.jpg" crc="221953710" seo="true" ref="untitled-2">
+      <caption webpage="untitled-2" alt=""/>
+    </file>
+    <file name="จับภาพ4.jpg" crc="3846709955" seo="true" ref="untitled-2">
+      <caption webpage="untitled-2" alt=""/>
+    </file>
+    <file name="จับภาพ5.jpg" crc="223759749" seo="true" ref="untitled-2">
+      <caption webpage="untitled-2" alt=""/>
+    </file>
+    <file name="จับภาพ6.jpg" crc="334081644" seo="true" ref="untitled-2">
+      <caption webpage="untitled-2" alt=""/>
+    </file>
+    <file name="จับภาพ7.jpg" crc="3854363977" seo="true" ref="untitled-2">
+      <caption webpage="untitled-2" alt=""/>
+    </file>
+    <file name="จับภาพ8.jpg" crc="4130938325" seo="true" ref="untitled-2">
+      <caption webpage="untitled-2" alt=""/>
+    </file>
+    <file name="จับภาพ9.jpg" crc="64216372" seo="true" ref="untitled-2">
+      <caption webpage="untitled-2" alt=""/>
+    </file>
+    <file name="จับภาพ10.jpg" crc="385282549" seo="true" ref="untitled-2">
+      <caption webpage="untitled-2" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3955625091" seo="true" mt="1567778349609" redirect="true"/>
+  <file name="untitled-2.html" crc="6049857" seo="true" mt="1567781646927" redirect="true"/>
+</manifest>
